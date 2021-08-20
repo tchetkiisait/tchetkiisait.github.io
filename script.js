@@ -8,7 +8,6 @@ const drone = new ScaleDrone(CLIENT_ID, {
     color: getRandomColor(),
   },
 });
-var DOM.membersCount.innerText.style.color="#ebdbb2"
 let members = [];
 
 drone.on('open', error => {

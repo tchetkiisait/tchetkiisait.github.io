@@ -7,7 +7,9 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width">
   <style>
-    
+    [contenteditable] {
+    outline: 1px solid #83a598;
+    }
     body {
       box-sizing: border-box;
       margin: 0;
@@ -63,7 +65,7 @@
   <div class="members-list">-</div>
   <div class="messages"></div>
   <form class="message-form" onsubmit="return false;">
-    <input class="message-form__input" placeholder="tut mozhno pisatt" type="text" />
+    <input contenteditable="true" class="message-form__input" placeholder="tut mozhno pisatt" type="text" />
   </form>
   <script src="./script.js"></script>
   </body>

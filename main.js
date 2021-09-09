@@ -14,9 +14,10 @@ function save(){
 };
 
 function load(){
-	if (typeof savegame.cookies !== "undefined") cookies = savegame.cookies;
-	if (typeof savegame.cookies !== "undefined") cookies = savegame.cookies;
 	var savegame = JSON.parse(localStorage.getItem("save"));
+	if (typeof savegame.cookies !== "undefined") cookies = savegame.cookies;
+	if (typeof savegame.cookies !== "undefined") cookies = savegame.cookies;
+	
 	
 }
 var cursors = 0;

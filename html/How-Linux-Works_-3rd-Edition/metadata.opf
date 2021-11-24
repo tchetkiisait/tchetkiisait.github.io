@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">294ab778-ac8d-47d2-a8b8-a37fee1a3b7d</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">294ab778-ac8d-47d2-a8b8-a37fee1a3b7d</dc:identifier>
+        <dc:title>How Linux Works, 3rd Edition</dc:title>
+        <dc:creator opf:file-as="Ward, Brian" opf:role="aut">Brian Ward</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.32.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-04-13T00:00:00+00:00</dc:date>
+        <dc:publisher>No Starch Press</dc:publisher>
+        <dc:language>en</dc:language>
+        <meta name="calibre:author_link_map" content="{}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2ce6cdb8-c784-4112-a3c6-268c17bd0dab</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2ce6cdb8-c784-4112-a3c6-268c17bd0dab</dc:identifier>
+        <dc:title>Working with Linux: Quick Hacks for the Command Line</dc:title>
+        <dc:creator opf:file-as="I?fan, Petru" opf:role="aut">Petru I?fan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.32.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-11-23T15:29:57+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;b&gt;Say goodbye to unproductive Linux habits and switch to the express lane&lt;/b&gt;&lt;p&gt;&lt;b&gt;About This Book&lt;/b&gt;&lt;p&gt;&lt;li&gt;Improve your terminal and command-line productivity by using powerful tools&lt;li&gt;Sharpen your existing command-line skills and achieve complex tasks faster&lt;li&gt;Save time and money by creating customized commands that automate day-to-day tasks&lt;p&gt;&lt;b&gt;Who This Book Is For&lt;/b&gt;&lt;p&gt;This book is for system administrators and developers who know the basics of Linux and want to brush up and sharpen their skills. Prior experience with Linux shell is required.&lt;p&gt;&lt;b&gt;What You Will Learn&lt;/b&gt;&lt;p&gt;&lt;li&gt;Optimize the power of Guake by integrating it with ClipIt&lt;li&gt;Deep dive into the workings of the console editor&amp;#8212;Vim&lt;li&gt;Explore the advanced concepts and best practices of shell scripting&lt;li&gt;Edit large amounts of data quickly using Sed&lt;li&gt;Use pipes and subshells to create customized commands&lt;li&gt;Get to know how you can speed up the software development and make the terminal a handy...</dc:description>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:language>en</dc:language>
+        <meta name="calibre:author_link_map" content="{}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
